@@ -1,0 +1,169 @@
+.textOnClick{
+    background-color: gray;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.popup{
+
+    width: 450px;
+    background:white;
+    border-radius: 1rem;
+    position: absolute;
+    top: 50%;  
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+    border-radius: 1.5rem;
+    border:0.1rem solid black;
+     font-size: 1rem;
+
+     /*Hide from Search */
+      display: none;
+}
+.popup1{
+
+    width: 450px;
+    background:white;
+    border-radius: 1rem;
+    position: absolute;
+    top: 50%;  
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+    border-radius: 1.5rem;
+    border:0.1rem solid black;
+     font-size: 1rem;
+
+     /*Hide from Search */
+           display: none;
+
+} 
+
+
+.colorContainer {
+    width: 450px;
+    background:white;
+    border-radius: 1rem;
+    position: absolute;
+    top: 50%;  
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+    border-radius: 1.5rem;
+    border:0.1rem solid black;
+     font-size: 1rem;
+
+     /*Hide from Search */
+      display: none;
+
+}
+
+/* .popub {
+    display: none;
+    position: absolute;
+    background-color: antiquewhite;
+    border: 1px solid black;
+    padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+.popub h2{
+    margin: 5px 0;
+}
+
+.textOnClick{
+    background-color: gray;
+    color: black;
+    cursor: pointer;
+    text-align: center;
+    font-size: 2rem;
+}
+
+ */
+
+
+
+/* 
+body{
+    margin: 50px;
+}
+.card {
+    display: grid;
+    justify-content: center;
+
+    background-color: grey;
+    font-size: 1.5rem ;
+    padding: 0.5rem;
+    margin: 0.5rem;
+
+}
+
+.model-container .model {
+  background-color: #e0d2d2;
+      padding: 15px;
+      border-radius: 8px;
+      text-align: center;
+
+}
+ */
+ 
+
+/* .mainDiv {
+    display: flex;
+    background-color: gray;
+    justify-content: center;
+    align-items: center;
+    padding: 0.75rem;
+    margin: 0.75rem;
+    font-size: 1rem;
+} */
+
+
+  /* display: grid;
+  justify-content: center;
+  align-content: center;
+    height: 400px;
+     border: 1px solid black;
+     margin: 50px; */
+
+  
+    /* box-shadow:0 8px 16px 0 rgba(0,0,0,0.2);
+    width: 50rem;
+    text-align: center; */
+
+/* .secondaryCard div{
+    font-size: 2.5rem;
+    line-height :5rem;
+
+} */
+/* *********************************************** */
+/* .popup {
+    width: 450px;
+    background:white;
+    border-radius: 1rem;
+    position: absolute;
+    top: 50%;  
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    padding: 0 30px 30px;
+   
+    transition: transform 0.4s , too 0.4s;
+
+}
+
+.popup h3{
+    font-size: 1.75rem;
+} */
+/* .open-popup{
+      visibility: visible;
+        top: 50%;  
+         transform: translate(-50%,-50%) scale(1);
+} */
+
+/* **************************************************************** */
